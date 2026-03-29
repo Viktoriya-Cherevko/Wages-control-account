@@ -1,4 +1,4 @@
-# Wages-control-account
+# Account_Transactions salaries
 Payroll Data Transformation for Xero
 
 This Excel-based project was created to support the monthly journal entry of payroll costs into Xero, based on reports exported from Payroll Manager. The client required visibility by department, which is not readily available in the source software, and therefore this spreadsheet consolidates and transforms the data into a department-level format for manual input.
